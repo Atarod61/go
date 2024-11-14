@@ -5,7 +5,8 @@ import (
 )
 
 func main() {
-	x := true
+	x := false
 	y := false
 	fmt.Println(x && y)
 }
+م
